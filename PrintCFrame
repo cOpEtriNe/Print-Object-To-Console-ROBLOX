@@ -1,0 +1,3 @@
+local Object = game.Workspace.YourPartOrObjectHere.CFrame -- change YourPartOrObjectHere to ur part or thing
+
+print(Object) -- check console for the coords, prints coords
